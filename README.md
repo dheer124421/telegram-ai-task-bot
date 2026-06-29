@@ -16,6 +16,9 @@ Architecture Diagram
 Workflow Image
 <img width="1865" height="870" alt="image" src="https://github.com/user-attachments/assets/c9e8c367-af49-4a9d-983f-5c004cf06908" />
 
+Clickup-demo
+<img width="1511" height="761" alt="image" src="https://github.com/user-attachments/assets/d2fbbc53-3fb4-4816-8cf2-62d0567c6fc4" />
+
 Text-demo
 <img width="942" height="442" alt="text-demo" src="https://github.com/user-attachments/assets/0ad77784-5b3d-46b9-9c36-1d042207efcc" />
 
