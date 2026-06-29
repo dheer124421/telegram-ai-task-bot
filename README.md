@@ -8,7 +8,25 @@ Manually opening a task manager to log a quick task breaks flow. This bot lets y
 
 ## 🖼️ Demo
 
-> *(Add a short screen recording: send a voice note → bot replies with the created ClickUp task link)*
+Architecture Diagram
+
+<img width="802" height="687" alt="Screenshot 2026-06-29 155556" src="https://github.com/user-attachments/assets/65193923-c5f2-449b-a48f-41daa44e6774" />
+
+
+Workflow Image
+<img width="1865" height="870" alt="image" src="https://github.com/user-attachments/assets/c9e8c367-af49-4a9d-983f-5c004cf06908" />
+
+Text-demo
+<img width="942" height="442" alt="text-demo" src="https://github.com/user-attachments/assets/0ad77784-5b3d-46b9-9c36-1d042207efcc" />
+
+Image-demo
+<img width="996" height="552" alt="image-demo" src="https://github.com/user-attachments/assets/d493738f-f752-4ed0-b60e-5436f3507540" />
+
+video-demo
+<img width="960" height="551" alt="video-demo" src="https://github.com/user-attachments/assets/5394dd9d-d992-4bb0-a22f-1a9eb545e18b" />
+
+Voice-demo
+<img width="943" height="516" alt="voice-demo" src="https://github.com/user-attachments/assets/6a684711-dc6f-4cf9-8d02-c8d9407f4112" />
 
 ## 🏗️ How it works
 
