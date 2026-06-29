@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.local
+.env.*
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# n8n
+database.sqlite
+
+*.ogg
+*.oga
